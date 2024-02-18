@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Habits</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="assets/logo.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <img src="assets/logo.svg" alt="Logomarca do aplicativo Habits" />
+
+      <button onclick="">
+        <img src="assets/plus.svg" alt="Ícone sinal de mais roxo" />
+
+        <div>Registrar meu dia</div>
+      </button>
+    </header>
+
+    <form id="form-habits">
+      <div class="habits">
+        <div class="habit" data-name="run">
+          <img src="assets/icons/run.png" alt="Mulher correndo" />
+        </div>
+        <div class="habit" data-name="water">
+          <img src="assets/icons/water.png" alt="Agua" />
+        </div>
+        <div class="habit" data-name="fruit">
+          <img src="assets/icons/apple.png" alt="Maçã" />
+        </div>
+        <div class="habit" data-name="read">
+          <img src="assets/icons/read.png" alt="Ler" />
+        </div>
+        <div class="habit" data-name="pill">
+          <img src="assets/icons/pill.png" alt="Remédio" />
+        </div>
+        <div class="habit" data-name="sleep">
+          <img src="assets/icons/sleep.png" alt="Dormir" />
+        </div>
+      </div>
+
+      <div class="days"></div>
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/gh/maykbrito/libs/NLWSetup/source/NLWSetup.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
