@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Logo NLW Setup - Rocketseat" src="https://i.imgur.com/cwCUgYu.png" width="200px" />
 </p>
- 
+  
 <p align="center">
 Aplicação desenvolvida no NLW Setup da Rocketseat na trilha Explorer.
 </p>
