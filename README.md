@@ -20,8 +20,10 @@ Aplicação desenvolvida no NLW Setup da Rocketseat na trilha Explorer.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/eE8kyfK.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/UcvRh1g.png" width="80%">
 </p>
+
+> Projeto desenvolvido entre os dias 16/01 e 20/01 de 2023
 
 ## **🚀 Tecnologias**
 
